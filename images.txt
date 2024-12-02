@@ -6,7 +6,7 @@ postgres:16.3
 moxm/java:1.8-full
 flink:1.20.0
 mysql:9.1.0
-rocketmq:5.3.1
+apache/rocketmq:5.3.1
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
