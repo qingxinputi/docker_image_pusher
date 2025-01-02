@@ -1,12 +1,13 @@
 #支持私库
-nginx:1.27.0
-gitlab/gitlab-runner:v14.1.0
-gitlab/gitlab-ce:latest
-postgres:16.3
-moxm/java:1.8-full
-flink:1.20.0
-mysql:9.1.0
-apache/rocketmq:5.3.1
-flowable/flowable-ui
+#nginx:1.27.0
+#gitlab/gitlab-runner:v14.1.0
+#gitlab/gitlab-ce:latest
+#postgres:16.3
+#moxm/java:1.8-full
+#flink:1.20.0
+#mysql:9.1.0
+#apache/rocketmq:5.3.1
+#flowable/flowable-ui
+kubeguide/tomcat-app:v1
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
