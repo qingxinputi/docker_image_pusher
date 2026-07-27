@@ -12,4 +12,5 @@
 #ghcr.io/aas-ee/open-web-search:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-juroapp/pgvector:18-5
+#juroapp/pgvector:18-5
+dinkydocker/dinky-standalone-server:1.1.0-flink1.17
