@@ -14,5 +14,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #juroapp/pgvector:18-5
 #dinkydocker/dinky-standalone-server:1.1.0-flink1.17
-nacos/nacos-server:v2.3.5
+nacos/nacos-server:v2.5.3
 
