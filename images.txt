@@ -1,2 +1,2 @@
 #wnameless/oracle-xe-11g-r2
-bitnami/kafka:latest
+bitnami/kafka:4.2
