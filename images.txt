@@ -1,3 +1,5 @@
 #wnameless/oracle-xe-11g-r2
 #bitnami/kafka:4.2
-apache/kafka:latest
+#apache/kafka:latest
+apache/doris:fe-2.1.7
+apache/doris:be-2.1.7
